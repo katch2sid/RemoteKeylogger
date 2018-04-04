@@ -1,5 +1,9 @@
 ## RemoteKeylogger
 
+### Donate
+  - Bitcoin: 1DGyJxWY4AWCbjMQptc3fSkdnf4e71BCX9
+  - Ethereum: 0x019e2AC0ffEFD6eC62b464487d2434bc57C6F9ae
+
 # Description
 This is keylogger tool which will stream keys from a victim machine to a remote python server
 
